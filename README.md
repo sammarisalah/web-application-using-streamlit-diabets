@@ -1,1 +1,1 @@
-# web-application-using-streamlit-diabets
+# web application using streamlit diabets
